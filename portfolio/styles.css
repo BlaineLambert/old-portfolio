@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to bottom right, white , navy);
+    background-image: linear-gradient(to right, pink, purple);
 }
 .gradient, .MainBody{
     margin: 0%;
@@ -9,8 +9,8 @@ body {
 .aboutme{
     font-size: 20pt;
     position: absolute;
-    top: 75px;
-    left: 360px;
+    top: 40px;
+    left: 350px;
 }
 .home{
     position: fixed;
@@ -35,7 +35,7 @@ body {
     font-family:'Courier New', Courier, monospace;
     border-spacing: 30px;
     position: absolute;
-    top: 250px;
+    top: 300px;
     left: 320px;
 }
 .header{
@@ -44,8 +44,24 @@ body {
     font-size: 42pt;
 }
 .photo{
-    height: 400px;
+    height: 350px;
     position: absolute;
     top: 15px;
     left: 20px;
+}
+.skillstext{
+    position: absolute;
+    top: 270px;
+    left: 730px;
+}
+.projectstext{
+    position: absolute;
+    top: 500px;
+    left: 346px;
+}
+.projects{
+    position: absolute;
+    top: 540px;
+    left: 320px;
+    border-spacing: 25px;
 }
