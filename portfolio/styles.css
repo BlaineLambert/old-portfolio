@@ -79,7 +79,7 @@ body {
 .skilllogo2{
     width: 100px;
 }
-@media only screen and (max-width:650px){
+@media only screen and (max-width:980px){
     body {
         background-image: linear-gradient(to right, pink, purple);
     }
